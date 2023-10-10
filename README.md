@@ -1,5 +1,5 @@
 # serial-comm-demo
-本项目是Java串口通信的springboot-starter，可以轻易集成入springboot项目中，简单几步就可以方便的读写串口数据
+本项目是Java串口通信的spring-boot-starter，可以轻易集成入spring-boot项目中，简单几步就可以方便的读写串口数据
 
 **支持windows、linux环境**
 
