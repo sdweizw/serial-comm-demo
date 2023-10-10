@@ -1,5 +1,0 @@
-com:
-  serial:
-    ports:
-      - { port: COM1, speed: 9600 }
-      - { port: COM2, speed: 9600 }
