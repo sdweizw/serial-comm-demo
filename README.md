@@ -5,7 +5,7 @@
 
 ## 使用方式：
 
-### 1下载serial-comm-demo-0.0.1-SNAPSHOT.jar，添加到项目中，在项目pom.xml中添加配置
+### 1.下载serial-comm-demo-0.0.1-SNAPSHOT.jar，添加到项目中，在项目pom.xml中添加配置
     <dependency>
         <groupId>org.vesalainen</groupId>
         <artifactId>comm</artifactId>
