@@ -9,7 +9,6 @@ import com.example.serialcommdemo.util.StringUtil;
 import com.example.serialcommdemo.writer.SerialPortWriter;
 import com.example.serialcommdemo.writer.impl.DefaultSerialPortWriter;
 import lombok.AllArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
@@ -30,7 +29,6 @@ import java.util.stream.Collectors;
  * @author Wei Zhanwei
  * @since 2023/2/26 14:38
  **/
-@Slf4j
 @Configuration
 @AllArgsConstructor
 @EnableConfigurationProperties(SerialPortProperties.class)
