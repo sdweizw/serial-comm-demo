@@ -19,7 +19,7 @@
         <systemPath>${project.basedir}/..jar包路径../serial-comm-demo-0.0.1-SNAPSHOT.jar</systemPath>
     </dependency>
 
-### 2.在配置文件如application.yml中添加串口配置，以下示意添加COM1、COM2两个串口，波特率均为9600
+### 2.在项目配置文件如application.yml中添加串口配置，以下示意添加COM1、COM2两个串口，波特率均为9600
     com:
       serial:
         ports:
